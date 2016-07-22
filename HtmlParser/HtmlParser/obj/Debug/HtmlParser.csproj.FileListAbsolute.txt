@@ -1,0 +1,12 @@
+d:\users\anil.gurbuz\documents\visual studio 2013\Projects\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe.config
+d:\users\anil.gurbuz\documents\visual studio 2013\Projects\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe
+d:\users\anil.gurbuz\documents\visual studio 2013\Projects\HtmlParser\HtmlParser\bin\Debug\HtmlParser.pdb
+d:\users\anil.gurbuz\documents\visual studio 2013\Projects\HtmlParser\HtmlParser\bin\Debug\HtmlAgilityPack.dll
+d:\users\anil.gurbuz\documents\visual studio 2013\Projects\HtmlParser\HtmlParser\bin\Debug\HtmlAgilityPack.pdb
+d:\users\anil.gurbuz\documents\visual studio 2013\Projects\HtmlParser\HtmlParser\bin\Debug\HtmlAgilityPack.xml
+d:\users\anil.gurbuz\documents\visual studio 2013\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csprojResolveAssemblyReference.cache
+d:\users\anil.gurbuz\documents\visual studio 2013\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.Form1.resources
+d:\users\anil.gurbuz\documents\visual studio 2013\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.Properties.Resources.resources
+d:\users\anil.gurbuz\documents\visual studio 2013\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csproj.GenerateResource.Cache
+d:\users\anil.gurbuz\documents\visual studio 2013\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.exe
+d:\users\anil.gurbuz\documents\visual studio 2013\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.pdb
